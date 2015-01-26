@@ -4,18 +4,18 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Jesse Seegers • jseegers@nyu.edu OR jesseseegers@gmail.com • Spring 2015 
-    Tuesdays & Thursdays • 8:30-10:20PM • 2MTC MAGNET 811 • 3 credit hrs
+    Tuesdays & Thursdays • 8:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: (TBD) MAGNET • Office Phone: 914 589 8990
+    Office: MAGNET • Office Phone: 914 589 8990
 
     Prerequisite: None
    
    
 ###Github Repository: 
-* TBD
+* https://github.com/jesseseegers/DM1123-VFS-SP15
 
 ####Course Management Site
-* TBD
+* Basecamp (link coming soon)
 
 
 ---
