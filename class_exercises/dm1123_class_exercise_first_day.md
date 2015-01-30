@@ -15,7 +15,7 @@
 * What do I hope I will learn? 
 * What does my presence here mean to me? What are my goals?
 * What content do I think will help me accomplish my learning goals?
-* What are my existing skill sets as it relates to this course?
+* What are my existing skill sets as it relateses to this course?
  
 
 ##### CLASS EXERCISE: Classroom Climate
@@ -29,9 +29,4 @@
 * Classmates encourage me to learn when they... 
 
 
-#### CLASS EXERCISE: Course Input
-* Building on your own goals, the results of your peer interviews, and my commitment to include your input, how would you revise the course?
-
-#### Ice Breakers
-* What is everybody's experience with design? are any of your parents, family members, siblings designers? 
-* what do you think counts as a designer?
+I

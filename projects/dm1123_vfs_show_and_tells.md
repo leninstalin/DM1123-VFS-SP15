@@ -34,14 +34,14 @@
 
 **Artists, Designers & Collectives:**
 
-* Peter Saville (music / punk aesthetic)
-* Chip Kidd (book jackets) 
-* Josef Muller-Brockman (composition)
-* Aleksander Rodchenko (composition & photography)
-* Andy Warhol (image)
-* Tibor Kalman (image)
+* Peter Saville (music / punk aesthetic) Justin and Tammer
+* Chip Kidd (book jackets) Ife and Daniel
+* Josef Muller-Brockman (composition) Katalina and Casey
+* Aleksander Rodchenko (composition & photography) Judy and Shelby
+* Andy Warhol (image) Luciano and Woori
+* Tibor Kalman (image) Julia and Lorenzo
 * David Carson (type & image)
-* Muriel Cooper (logo & composition)
+* Muriel Cooper (logo & composition) Camille and Nadia
 * Barbara Krueger (type & image)
 * Stefan Sagmeister (type & image)
 * Paula Scher (type & image)
