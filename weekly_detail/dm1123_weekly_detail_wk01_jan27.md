@@ -89,8 +89,10 @@
   <td>Post a <a href="../projects/dm1123_vfs_reading_responses.md"> reading response</a> for the PDF reading, <em>Learning (Your First Job)</em> by Leamnson, which is located on basecamp under the Files tab.</td> 
 </tr>
 <tr>
-  <td>do</td>
-  <td></td> 
+  <td>do </td>
+  <td><br>
+  Future Bio: Write a 200-400 word bio of yourself in 30 years.	Think about: <ul><li>the kinds of work you will have completed </li><li> collaborations with other people </li><li> Do you have a specialty? </li><li> have you won any awards? If so, which ones? </li><li> Who are your clients? </li><li> Have you had exhibitions of your work? </li><li> Has it been published anywhere, in magazines, blogs, etc.? </li>
+</ul></td> 
   <td>
   <ul>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
