@@ -64,10 +64,7 @@
 <li>Learning (Your First Job) by Leamnson</li>
 </ul>
 
-<strong>Show &amp; Tell</strong>
-<ul>
-<li>Nicholas Felton </li>
-</ul>
+
 
 <strong>Demos</strong>
 <ul>
