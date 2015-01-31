@@ -40,12 +40,7 @@
   <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Groups A &amp; B)</a>
   <ul>
   <li><a href="" target="_blank">RGB vs. CMYK</a></li>
-  <li>Show &amp; Tells</li>
-      <ul>
-      <li>Peter Saville: ____</li>
-      <li>Chip Kidd: _____</li>
-      <li>Art Chantry: _____</li>
-      </ul>
+ 
     <li>Discuss next class homework</li>
   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li></td>
  </ul>

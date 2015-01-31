@@ -28,6 +28,7 @@
   <ul>
    <li>Discuss next class homework</li>
    <li>Respond to selected tickets to leave</li>
+
   </ul>
 
   </td>
@@ -35,11 +36,7 @@
     <ul>
     <li>Discuss next class homework</li>
     <li>Logo Presentations Recap</li>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Saul Bass (for logos, not film titles): _____</li>
-      <li>Shepard Fairey: ______</li>
-    </ul>
+
     
     </ul>
   </td>

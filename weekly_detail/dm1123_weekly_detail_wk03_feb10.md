@@ -30,9 +30,7 @@
   <ul>  
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Andy Warhol: ____</li>
-      <li>Barbara Krueger: ____</li>
-      <li>Aleksander Rodchenko: ____</li>
+      <li>Andy Warhol: Luciano and Woori</li>
     </ul>
   <li>Naomi Pan: <a href="http://wordmark.it" target="_blank">http://wordmark.it</a></li>
   <li>Demo Illustrator continued</li>
@@ -49,6 +47,7 @@
     <li>Demo Illustrator continued (if time)</li>
     <li>Demo Adobe Photoshop (if time)</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+    <li>Aleksander Rodchenko: Judy and Shelby</li>
     </ul>
   </td>
 </tr>

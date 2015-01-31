@@ -32,8 +32,7 @@
   <li>Discuss homework for next class</li>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Stefan Sagmeister: _____</li>
-      <li>Paula Scher: ____</li>
+      <li>Josef Müller-Brockmann: Katalina and Casey</li>
     </ul>
   
    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
@@ -50,8 +49,7 @@
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Tibor Kalman: _____</li>
-      <li>Josef Müller-Brockmann: _____</li>
+      <li>Tibor Kalman: Julia and Lorenzo</li>
     </ul>
     <li>Respond to selected tickets to leave</li>
     <ul>
